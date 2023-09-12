@@ -1,0 +1,97 @@
+classes_name,disease_name,remedy
+Apple___Apple_scab,Apple Scab,"1: Tebuconazole
+2: Myclobutanil
+3: Captan
+4: Sulfur/lime Sulfur"
+Apple___Black_rot,Apple Black Rot,1: Myclotect
+Apple___Cedar_apple_rust,Cedar Apple Rust,"1: Sulfur plant Fungicide
+2: Serenade Garden
+3: liquid copper spray
+4: Orchard spray"
+Apple___healthy,Apple Healthy,This plant is healthy!
+Blueberry___healthy,Blueberry Healthy,This plant is healthy!
+Cherry_(including_sour)___healthy,Cherry Healthy,This plant is healthy!
+Cherry_(including_sour)___Powdery_mildew,Cherry Powdery Mildew,"1: Stylet Oil + azoxystrobin     +propiconazole
+2: Stylet Oil
+3: triflumazole
+4: Orchex 796
+5: Calcium polysulfide
+6: M-pede"
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn Cercospora Leaf Spot,"1: Foliar fungicides
+2: Azoxystrobin
+3: Pyraclostrobin
+4: Tetraconazole
+5: Plowing debris"
+Corn_(maize)___Common_rust_,Corn Common Rust,"1: Azoxystrobin
+2: Pyraclostrobin
+3: Propiconazole
+4: Metconazole
+5: Trifloxystrobin"
+Corn_(maize)___healthy,Corn Healthy,This plant is healthy!
+Corn_(maize)___Northern_Leaf_Blight,Corn Northern Leaf Blight,"1: Fortix
+2: Preemptor
+3: Quilt Xcel 2.2 SE
+4: Headline AMP 1.68 SC"
+Grape___Black_rot,Grape Black Rot,"1: Double Nickle 55
+2: Sterol inhibitors
+3: Rally"
+Grape___Esca_(Black_Measles),Grape Esca (Black Measles),"1: Apply dormant spray
+2: FRAC 3 
+3: Mettle"
+Grape___healthy,Grape Healthy,This plant is healthy!
+Grape___Leaf_blight_(Isariopsis_Leaf_Spot),Grape Leaf Blight,"1: Produce Cleaner
+2:  Natural Disease Control
+3:  Budswel (0-7-0)
+4:  Bi-Carb
+5:  O’ For Feet Sake"
+Orange___Haunglongbing_(Citrus_greening),Orange Haunglongbing,"1: Blood Orange Wash
+2: Orange Guard
+3: Orange Guard Plants
+4: Orange Plus
+5:  Orange Peel Oil"
+Peach___Bacterial_spot,Peach Bacterial Spot,1: Liquid Copper
+Peach___healthy,Peach Healthy,This plant is healthy!
+"Pepper,_bell___Bacterial_spot",Pepper Bell Bacterial Spot,"1: TreeTanglefoot (15oz)
+2: Bt kurstaki (Bt-k)
+3: Diatomaceous Earth"
+"Pepper,_bell___healthy",Pepper Bell Healthy,This plant is healthy!
+Potato___Early_blight,Potato Early blight,"1: Liquid Copper Spray
+2:  Liquid Copper
+3:  Garden Dust (Bonide)"
+Potato___healthy,Potato Healthy,This plant is healthy!
+Potato___Late_blight,Potato Late Blight,"1: Natural Disease Control
+2: Plant Doctor
+3: Serenade Garden
+4: Liquid Copper"
+Raspberry___healthy,Raspberry Healthy,This plant is healthy!
+Soybean___healthy,Soybean Healthy,This plant is healthy!
+Squash___Powdery_mildew,Squash Powdery Mildew,"1:  Butter (Fruit Pigmented)
+2:  Goats Milk (Windrift Hill)
+3: Butta (100% Organic)"
+Strawberry___healthy,Strawberry Healthy,This plant is healthy!
+Strawberry___Leaf_scorch,Strawberry Leaf Scorch,"1: Organic Fungicide: Captan 50 WP
+2:  Organic Fungicide: Copper Compounds"
+Tomato___Bacterial_spot,Tomato Bacterial Spot,"1: Wall O’ Water
+2: Liquid Calcium 5%
+3: Red Mulch Film"
+Tomato___Early_blight,Tomato Early Blight,"1:  Serenade Garden
+2: Liquid Copper Spray
+3:  Liquid Copper
+4:  Garden Dust (Bonide)"
+Tomato___healthy,Tomato Healthy,This plant is healthy!
+Tomato___Late_blight,Tomato Late Blight,"1: Natural Disease Control
+2: Plant Doctor
+3: Serenade Garden
+4: Liquid Copper"
+Tomato___Leaf_Mold,Tomato Leaf Mold,"1: Garden Dust
+2: Tomato Spray
+3: Bt kurstaki (Bt-k)"
+Tomato___Septoria_leaf_spot,Tomato Septoria Leaf Spot,"1: Wall O’ Water
+2: Liquid Calcium 5%
+3: Red Mulch Film"
+Tomato___Spider_mites Two-spotted_spider_mite',Tomato Spider Mites,"1: Spider Mite Knockout
+2: SNS 217"
+Tomato___Target_Spot,Tomato Target Spot,1: Garden Fungicide
+Tomato___Tomato_mosaic_virus,Tomato Mosaic Virus,"1: Diatomaceous Earth
+2: Safer Soap"
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato Yellow Leaf Curl,1: Diatomaceous Earth
